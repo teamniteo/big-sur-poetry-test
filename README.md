@@ -1,5 +1,7 @@
 # Testing various features of poetry2nix on Big Sur
 
+## Note: Monterey work continues in https://github.com/teamniteo/monterey-poetry-test
+
 Use this repo to create MREs (minimal reproducible example) to showcase various
 features and problems with poetry2nix.
 
